@@ -1,0 +1,16 @@
+baseURL = 'https://pale-bluedot.github.io/mindful-queries/'
+languageCode = 'en-us'
+title = 'mindful queries'
+theme = "hugo-theme-console"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = false
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
