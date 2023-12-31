@@ -5,6 +5,7 @@
     <link>https://pale-bluedot.github.io/mindful-queries/categories/</link>
     <description>Recent content in Categories on mindful queries</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pale-bluedot.github.io/mindful-queries/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://pale-bluedot.github.io/mindful-queries/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
