@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mindful Queries</title>
-    <link>http://localhost:1313/mindful-queries/tags/</link>
+    <link>https://pale-bluedot.github.io/mindful-queries/tags/</link>
     <description>Recent content in Tags on Mindful Queries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/mindful-queries/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pale-bluedot.github.io/mindful-queries/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
