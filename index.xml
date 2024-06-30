@@ -2,423 +2,423 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mindful Queries</title>
-    <link>http://localhost:1313/mindful-queries/</link>
+    <link>https://pale-bluedot.github.io/mindful-queries/</link>
     <description>Recent content on Mindful Queries</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2024 15:50:38 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/mindful-queries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pale-bluedot.github.io/mindful-queries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/2024-06-30/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/2024-06-30/</link>
       <pubDate>Sun, 30 Jun 2024 15:50:38 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/2024-06-30/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/2024-06-30/</guid>
       <description>What would I do today if I wanted to maximize peace of mind?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/2024-05-26/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/2024-05-26/</link>
       <pubDate>Sun, 26 May 2024 10:52:51 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/2024-05-26/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/2024-05-26/</guid>
       <description>Do I have the courage to start a new project that might not work?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/2024-03-31/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/2024-03-31/</link>
       <pubDate>Sun, 31 Mar 2024 23:31:55 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/2024-03-31/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/2024-03-31/</guid>
       <description>What actions can I take that would force me to fully commit to a path I’ve been thinking about for a while?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/2024-02-25/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/2024-02-25/</link>
       <pubDate>Sun, 25 Feb 2024 20:58:53 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/2024-02-25/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/2024-02-25/</guid>
       <description>Given the reality of where I am right now, what is the best next action?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/2024-01-28/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/2024-01-28/</link>
       <pubDate>Sun, 28 Jan 2024 14:48:36 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/2024-01-28/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/2024-01-28/</guid>
       <description>Am I doing what is required or am I looking for a shortcut?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-31-23/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-31-23/</link>
       <pubDate>Sun, 31 Dec 2023 16:34:37 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-31-23/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-31-23/</guid>
       <description>What&amp;rsquo;s the most fun I could possibly have in one year?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/11-26-23/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/11-26-23/</link>
       <pubDate>Sun, 26 Nov 2023 17:41:15 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/11-26-23/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/11-26-23/</guid>
       <description>Do I have the skills to respond rather than react?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/10-29-23/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/10-29-23/</link>
       <pubDate>Sun, 29 Oct 2023 19:56:55 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/10-29-23/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/10-29-23/</guid>
       <description>If I knew I wouldn&amp;rsquo;t fail, what would I attempt to do?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/09-24-23/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/09-24-23/</link>
       <pubDate>Sun, 24 Sep 2023 00:21:54 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/09-24-23/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/09-24-23/</guid>
       <description>Do I need more information or more courage?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/06-25-23/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/06-25-23/</link>
       <pubDate>Sun, 25 Jun 2023 14:56:54 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/06-25-23/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/06-25-23/</guid>
       <description>Do the outcomes I anticipate correspond to the daily routines I stick to?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/04-02-23/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/04-02-23/</link>
       <pubDate>Sun, 02 Apr 2023 14:15:37 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/04-02-23/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/04-02-23/</guid>
       <description>Do I need to be doing more observing or more participating?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-25-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-25-22/</link>
       <pubDate>Sun, 25 Dec 2022 20:29:12 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-25-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-25-22/</guid>
       <description>Is it better to ask, what should I attempt next, instead of, will it succeed?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/06-19-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/06-19-22/</link>
       <pubDate>Sun, 19 Jun 2022 23:12:20 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/06-19-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/06-19-22/</guid>
       <description>When was a time when I was satisfied with my &amp;ldquo;time well spent&amp;rdquo;?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/04-17-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/04-17-22/</link>
       <pubDate>Sun, 17 Apr 2022 23:31:08 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/04-17-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/04-17-22/</guid>
       <description>What small but significant action can I take today?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/03-20-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/03-20-22/</link>
       <pubDate>Sun, 20 Mar 2022 22:09:08 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/03-20-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/03-20-22/</guid>
       <description>What is something I can remember but can no longer experience?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/03-06-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/03-06-22/</link>
       <pubDate>Sun, 06 Mar 2022 23:05:00 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/03-06-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/03-06-22/</guid>
       <description>What is something amazing about my life that I rarely appreciate as much as I should?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/02-06-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/02-06-22/</link>
       <pubDate>Sun, 06 Feb 2022 17:01:22 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/02-06-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/02-06-22/</guid>
       <description>Am I willing to risk my own comfort in a way that will benefit others?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/01-30-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/01-30-22/</link>
       <pubDate>Sun, 30 Jan 2022 21:47:40 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/01-30-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/01-30-22/</guid>
       <description>What am I continuing to do out of habit, but is no longer serving me?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/01-23-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/01-23-22/</link>
       <pubDate>Sun, 23 Jan 2022 17:05:05 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/01-23-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/01-23-22/</guid>
       <description>Am I able to shift some of my time and energy on the chronic problems instead of the urgent ones?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/01-09-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/01-09-22/</link>
       <pubDate>Sun, 09 Jan 2022 18:21:59 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/01-09-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/01-09-22/</guid>
       <description>Where do I go for courage?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/01-02-22/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/01-02-22/</link>
       <pubDate>Sun, 02 Jan 2022 23:51:58 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/01-02-22/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/01-02-22/</guid>
       <description>When I fail, am I failing forward?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-26-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-26-21/</link>
       <pubDate>Sun, 26 Dec 2021 18:55:25 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-26-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-26-21/</guid>
       <description>If I knew one thing would be guaranteed to work out in the new year, what would I want that to be?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-19-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-19-21/</link>
       <pubDate>Sun, 19 Dec 2021 20:22:27 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-19-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-19-21/</guid>
       <description>How do I hold on to that feeling of goodwill?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-12-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-12-21/</link>
       <pubDate>Sun, 12 Dec 2021 11:51:03 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-12-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-12-21/</guid>
       <description>Am I pausing before my next task?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/10-05-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/10-05-21/</link>
       <pubDate>Tue, 05 Oct 2021 11:21:53 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/10-05-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/10-05-21/</guid>
       <description>Am I creating the right boundaries?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/09-29-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/09-29-21/</link>
       <pubDate>Wed, 29 Sep 2021 21:06:51 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/09-29-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/09-29-21/</guid>
       <description>What invisible enemy in my life am I ignoring?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/08-29-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/08-29-21/</link>
       <pubDate>Sun, 29 Aug 2021 22:13:26 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/08-29-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/08-29-21/</guid>
       <description>What current inaction will require radical action in the future to compensate?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/07-05-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/07-05-21/</link>
       <pubDate>Mon, 05 Jul 2021 12:07:44 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/07-05-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/07-05-21/</guid>
       <description>Am I making time to feel awe?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/06-15-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/06-15-21/</link>
       <pubDate>Tue, 15 Jun 2021 12:01:54 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/06-15-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/06-15-21/</guid>
       <description>Are there any ideas I should unlearn?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/06-10-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/06-10-21/</link>
       <pubDate>Thu, 10 Jun 2021 17:15:39 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/06-10-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/06-10-21/</guid>
       <description>What is something I love doing that keeping track of time never comes to mind?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/05-27-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/05-27-21/</link>
       <pubDate>Thu, 27 May 2021 12:00:03 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/05-27-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/05-27-21/</guid>
       <description>Are the inputs in my life creating outputs that align with my values?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/04-28-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/04-28-21/</link>
       <pubDate>Wed, 28 Apr 2021 10:01:40 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/04-28-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/04-28-21/</guid>
       <description>Am I optimizing for the outcome or the process?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/04-21-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/04-21-21/</link>
       <pubDate>Wed, 21 Apr 2021 12:22:55 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/04-21-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/04-21-21/</guid>
       <description>How many things am I leaving undetected that will become too late for action later on?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/04-12-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/04-12-21/</link>
       <pubDate>Mon, 12 Apr 2021 10:01:12 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/04-12-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/04-12-21/</guid>
       <description>Is my success pushing me away from the fundamental thing that led me to succeed?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/03-24-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/03-24-21/</link>
       <pubDate>Wed, 24 Mar 2021 11:55:31 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/03-24-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/03-24-21/</guid>
       <description>Will doing this cause more freedom or less freedom?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/03-22-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/03-22-21/</link>
       <pubDate>Mon, 22 Mar 2021 10:22:16 -0400</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/03-22-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/03-22-21/</guid>
       <description>What can I learn from a period in my life where I was most engaged and energetic?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/03-03-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/03-03-21/</link>
       <pubDate>Wed, 03 Mar 2021 13:17:21 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/03-03-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/03-03-21/</guid>
       <description>What would a letter written to my future self say?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/03-01-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/03-01-21/</link>
       <pubDate>Mon, 01 Mar 2021 11:27:46 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/03-01-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/03-01-21/</guid>
       <description>Am I reacting or responding to this thing?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/02-17-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/02-17-21/</link>
       <pubDate>Wed, 17 Feb 2021 11:14:36 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/02-17-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/02-17-21/</guid>
       <description>Am I doing this activity because I&amp;rsquo;m bored or excited?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/02-08-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/02-08-21/</link>
       <pubDate>Mon, 08 Feb 2021 15:07:29 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/02-08-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/02-08-21/</guid>
       <description>What would I need to see or learn to change my mind about something?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/02-03-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/02-03-21/</link>
       <pubDate>Wed, 03 Feb 2021 12:00:28 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/02-03-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/02-03-21/</guid>
       <description>To accomplish this thing, will it require action or inaction?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/02-01-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/02-01-21/</link>
       <pubDate>Mon, 01 Feb 2021 10:05:26 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/02-01-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/02-01-21/</guid>
       <description>What are the consequences for a belief I have?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/01-13-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/01-13-21/</link>
       <pubDate>Wed, 13 Jan 2021 10:46:52 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/01-13-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/01-13-21/</guid>
       <description>What identity do I want to have a year from now?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/01-04-21/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/01-04-21/</link>
       <pubDate>Mon, 04 Jan 2021 17:01:53 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/01-04-21/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/01-04-21/</guid>
       <description>Is this serving me or is it detrimental to my well-being?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-30-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-30-20/</link>
       <pubDate>Wed, 30 Dec 2020 16:19:08 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-30-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-30-20/</guid>
       <description>Is there a lost skill I once had that can be useful for me now?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-28-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-28-20/</link>
       <pubDate>Mon, 28 Dec 2020 15:07:16 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-28-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-28-20/</guid>
       <description>Is the solution removing my attention from the actual problem?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-23-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-23-20/</link>
       <pubDate>Wed, 23 Dec 2020 20:16:35 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-23-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-23-20/</guid>
       <description>Am I waiting for &amp;lsquo;X&amp;rsquo; to happen before I can be happy?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-21-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-21-20/</link>
       <pubDate>Mon, 21 Dec 2020 13:52:12 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-21-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-21-20/</guid>
       <description>Am I delaying action in hope of avoiding some degree of suffering?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-16-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-16-20/</link>
       <pubDate>Wed, 16 Dec 2020 14:40:48 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-16-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-16-20/</guid>
       <description>What am I avoiding or clinging on to that is causing pain?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-14-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-14-20/</link>
       <pubDate>Mon, 14 Dec 2020 10:38:31 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-14-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-14-20/</guid>
       <description>Is there someone who can help me see this problem in a different way?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-09-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-09-20/</link>
       <pubDate>Wed, 09 Dec 2020 12:50:29 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-09-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-09-20/</guid>
       <description>Am I able to turn any unknown unknowns into known unknowns?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-07-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-07-20/</link>
       <pubDate>Mon, 07 Dec 2020 15:19:21 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-07-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-07-20/</guid>
       <description>What would be the antidote to a fear I have?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/12-02-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/12-02-20/</link>
       <pubDate>Wed, 02 Dec 2020 15:24:07 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/12-02-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/12-02-20/</guid>
       <description>Is the task I&amp;rsquo;m thinking of doing next truly necessary?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/11-30-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/11-30-20/</link>
       <pubDate>Mon, 30 Nov 2020 10:30:14 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/11-30-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/11-30-20/</guid>
       <description>What have I been doing by default settings that could use a new approach?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/11-25-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/11-25-20/</link>
       <pubDate>Wed, 25 Nov 2020 20:29:16 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/11-25-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/11-25-20/</guid>
       <description>What must I unlearn to understand something better?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/11-23-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/11-23-20/</link>
       <pubDate>Mon, 23 Nov 2020 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/11-23-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/11-23-20/</guid>
       <description>What small thing am I doing each day that could lead to a large problem later in life?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/11-19-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/11-19-20/</link>
       <pubDate>Thu, 19 Nov 2020 15:46:55 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/11-19-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/11-19-20/</guid>
       <description>What can present me do today that future me would appreciate?</description>
     </item>
     <item>
       <title>Query of the Day</title>
-      <link>http://localhost:1313/mindful-queries/posts/11-18-20/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/posts/11-18-20/</link>
       <pubDate>Wed, 18 Nov 2020 12:25:19 -0500</pubDate>
-      <guid>http://localhost:1313/mindful-queries/posts/11-18-20/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/posts/11-18-20/</guid>
       <description>What can I eliminate to make room for the things I do enjoy?</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/mindful-queries/about/</link>
+      <link>https://pale-bluedot.github.io/mindful-queries/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mindful-queries/about/</guid>
+      <guid>https://pale-bluedot.github.io/mindful-queries/about/</guid>
       <description>Hi. My name is Johan and this is my little thinking space for asking thoughtful questions to help us get to know ourselves a little better.&#xA;If you&amp;rsquo;d like to reach out to me the best way is by email: johanfandrade@gmail.com</description>
     </item>
   </channel>
